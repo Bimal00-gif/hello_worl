@@ -1,3 +1,8 @@
+
+print("Hello World")
+txt="Hello world"[::-1]
+print(txt)
+
 print("Hello world")
 
 value=input("Please enter your name:\n")
@@ -9,4 +14,5 @@ try:
     print(x)
 except:
     print("Invalid input")
+
 
